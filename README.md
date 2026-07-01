@@ -1,6 +1,6 @@
 # RNA SSP
 
-RNA SSP is a compact RNA secondary-structure toolkit for working with bpRNA examples, visualizing reference annotations, and benchmarking a ViennaRNA `RNAfold` baseline.
+RNA SSP is a compact RNA secondary-structure toolkit for working with [bpRNA](https://bprna.cgrb.oregonstate.edu/) examples, visualizing reference annotations, and benchmarking a [ViennaRNA](https://github.com/ViennaRNA/ViennaRNA) `RNAfold` baseline.
 
 It is intentionally lightweight: the code is easy to read, the data flow is explicit, and the main workflows can be run directly from the repository root.
 
