@@ -9,9 +9,19 @@
 </style>
 <rect x="0.00" y="0.00" width="960.00" height="640.00" fill="#ffffff" stroke="none" fill-opacity="1.000" />
 <text x="480.00" y="28.00" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#111827">RNAfold baseline: metric distributions</text>
-<text x="90.00" y="42.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#1f2937">Distribution of prediction metrics</text>
+<text x="90.00" y="42.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#1f2937">RNAfold baseline: metric distributions</text>
 <text x="90.00" y="622.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#1f2937">Metric value</text>
 <text x="18.00" y="310.00" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#1f2937" transform="rotate(-90.00 18.00 310.00)">Example count</text>
+<line x1="90.00" y1="560.00" x2="930.00" y2="560.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
+<text x="78.00" y="564.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0</text>
+<line x1="90.00" y1="435.00" x2="930.00" y2="435.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
+<text x="78.00" y="439.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">49</text>
+<line x1="90.00" y1="310.00" x2="930.00" y2="310.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
+<text x="78.00" y="314.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">98</text>
+<line x1="90.00" y1="185.00" x2="930.00" y2="185.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
+<text x="78.00" y="189.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">146</text>
+<line x1="90.00" y1="60.00" x2="930.00" y2="60.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
+<text x="78.00" y="64.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">195</text>
 <line x1="90.00" y1="60.00" x2="90.00" y2="560.00" stroke="#f3f4f6" stroke-width="1.00" stroke-opacity="1.000" />
 <text x="90.00" y="578.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#4b5563">0.0</text>
 <line x1="258.00" y1="60.00" x2="258.00" y2="560.00" stroke="#f3f4f6" stroke-width="1.00" stroke-opacity="1.000" />
@@ -24,48 +34,38 @@
 <text x="762.00" y="578.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#4b5563">0.8</text>
 <line x1="930.00" y1="60.00" x2="930.00" y2="560.00" stroke="#f3f4f6" stroke-width="1.00" stroke-opacity="1.000" />
 <text x="930.00" y="578.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#4b5563">1.0</text>
-<line x1="90.00" y1="560.00" x2="930.00" y2="560.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
-<text x="78.00" y="564.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">0</text>
-<line x1="90.00" y1="435.00" x2="930.00" y2="435.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
-<text x="78.00" y="439.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">2</text>
-<line x1="90.00" y1="310.00" x2="930.00" y2="310.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
-<text x="78.00" y="314.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">4</text>
-<line x1="90.00" y1="185.00" x2="930.00" y2="185.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
-<text x="78.00" y="189.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">6</text>
-<line x1="90.00" y1="60.00" x2="930.00" y2="60.00" stroke="#e5e7eb" stroke-width="1.00" stroke-opacity="1.000" />
-<text x="78.00" y="64.00" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#4b5563">8</text>
 <line x1="90.00" y1="60.00" x2="90.00" y2="560.00" stroke="#374151" stroke-width="1.50" stroke-opacity="1.000" />
 <line x1="90.00" y1="560.00" x2="930.00" y2="560.00" stroke="#374151" stroke-width="1.50" stroke-opacity="1.000" />
-<rect x="93.36" y="560.00" width="21.28" height="0.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="177.36" y="560.00" width="21.28" height="0.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="261.36" y="560.00" width="21.28" height="0.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="345.36" y="310.00" width="21.28" height="250.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="93.36" y="331.79" width="21.28" height="228.21" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="177.36" y="506.15" width="21.28" height="53.85" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="261.36" y="252.31" width="21.28" height="307.69" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="345.36" y="95.90" width="21.28" height="464.10" fill="#2563eb" stroke="none" fill-opacity="0.280" />
 <rect x="429.36" y="60.00" width="21.28" height="500.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="513.36" y="122.50" width="21.28" height="437.50" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="597.36" y="247.50" width="21.28" height="312.50" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="681.36" y="497.50" width="21.28" height="62.50" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="765.36" y="560.00" width="21.28" height="0.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="849.36" y="560.00" width="21.28" height="0.00" fill="#2563eb" stroke="none" fill-opacity="0.280" />
-<rect x="121.36" y="560.00" width="21.28" height="0.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="205.36" y="560.00" width="21.28" height="0.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="289.36" y="560.00" width="21.28" height="0.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="373.36" y="560.00" width="21.28" height="0.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="457.36" y="122.50" width="21.28" height="437.50" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="541.36" y="60.00" width="21.28" height="500.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="625.36" y="310.00" width="21.28" height="250.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="709.36" y="247.50" width="21.28" height="312.50" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="793.36" y="497.50" width="21.28" height="62.50" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="877.36" y="560.00" width="21.28" height="0.00" fill="#16a34a" stroke="none" fill-opacity="0.280" />
-<rect x="149.36" y="560.00" width="21.28" height="0.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="233.36" y="560.00" width="21.28" height="0.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="317.36" y="560.00" width="21.28" height="0.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="401.36" y="372.50" width="21.28" height="187.50" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="485.36" y="122.50" width="21.28" height="437.50" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="569.36" y="122.50" width="21.28" height="437.50" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="653.36" y="310.00" width="21.28" height="250.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="737.36" y="310.00" width="21.28" height="250.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="821.36" y="560.00" width="21.28" height="0.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
-<rect x="905.36" y="560.00" width="21.28" height="0.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="513.36" y="331.79" width="21.28" height="228.21" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="597.36" y="324.10" width="21.28" height="235.90" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="681.36" y="426.67" width="21.28" height="133.33" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="765.36" y="362.56" width="21.28" height="197.44" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="849.36" y="344.62" width="21.28" height="215.38" fill="#2563eb" stroke="none" fill-opacity="0.280" />
+<rect x="121.36" y="334.36" width="21.28" height="225.64" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="205.36" y="529.23" width="21.28" height="30.77" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="289.36" y="311.28" width="21.28" height="248.72" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="373.36" y="193.33" width="21.28" height="366.67" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="457.36" y="170.26" width="21.28" height="389.74" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="541.36" y="154.87" width="21.28" height="405.13" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="625.36" y="362.56" width="21.28" height="197.44" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="709.36" y="329.23" width="21.28" height="230.77" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="793.36" y="334.36" width="21.28" height="225.64" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="877.36" y="316.41" width="21.28" height="243.59" fill="#16a34a" stroke="none" fill-opacity="0.280" />
+<rect x="149.36" y="334.36" width="21.28" height="225.64" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="233.36" y="521.54" width="21.28" height="38.46" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="317.36" y="277.95" width="21.28" height="282.05" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="401.36" y="160.00" width="21.28" height="400.00" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="485.36" y="62.56" width="21.28" height="497.44" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="569.36" y="270.26" width="21.28" height="289.74" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="653.36" y="342.05" width="21.28" height="217.95" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="737.36" y="380.51" width="21.28" height="179.49" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="821.36" y="339.49" width="21.28" height="220.51" fill="#dc2626" stroke="none" fill-opacity="0.280" />
+<rect x="905.36" y="347.18" width="21.28" height="212.82" fill="#dc2626" stroke="none" fill-opacity="0.280" />
 <rect x="720.00" y="58.00" width="12.00" height="12.00" fill="#2563eb" stroke="none" fill-opacity="0.450" />
 <text x="738.00" y="68.00" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#111827">Precision</text>
 <rect x="720.00" y="76.00" width="12.00" height="12.00" fill="#16a34a" stroke="none" fill-opacity="0.450" />
