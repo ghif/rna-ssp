@@ -61,9 +61,9 @@ The full report is available at `scripts/prediction_plots/error_analysis_report.
 The project is meant to be run from source. In this workspace, use the `genomics` conda environment.
 
 ```bash
-source /Users/mghifary/Work/Installer/miniconda3/etc/profile.d/conda.sh
+source ~/miniconda3/etc/profile.d/conda.sh
 conda activate genomics
-cd /Users/mghifary/Work/Code/AI/genomics
+cd rna-ssp
 ```
 
 Run a small baseline evaluation:
